@@ -5,6 +5,6 @@ Steps to import Application template and Custom Dashboard template into the cont
 
 1. Add all the Application Names (one application per line) in the AppList.txt file
 2. Modify the config file 
-3. Run the "bash importToController.bash <config>" command.
+3. Run the "bash importToController.bash <config>" command
 4. Login to the controller to verify that the application(s) and dashboard(s) have been created
 
