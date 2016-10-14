@@ -1,0 +1,7 @@
+controller_account=
+controller_host=
+controller_port=
+controller_user=
+controller_pass=
+application_template=Application_Template.xml
+dashboard_template=CustomDB_Template.json
